@@ -1,0 +1,3 @@
+Rápidos y Furiosos,estreno,1500000,2,M,2,T,1,T
+El conjuro 3,liberada,2000000,1,M
+El castillo ambulante,estreno,17899999,3,M,3,T
